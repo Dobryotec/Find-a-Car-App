@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Car Model 1",
+    "price": 25000,
+    "url": "https://cdn.pixabay.com/photo/2015/01/19/13/51/car-604019_1280.jpg",
+    "seats": 5,
+    "miles": 30000,
+    "features": ["Air Conditioning", "Power Windows", "Bluetooth"],
+    "description": "This is a description for Car Model 1."
+  },
+  {
+    "id": 2,
+    "name": "Car Model 2",
+    "price": 30000,
+    "url": "https://cdn.pixabay.com/photo/2017/03/27/14/56/auto-2179220_1280.jpg",
+    "seats": 7,
+    "miles": 25000,
+    "features": ["Leather Seats", "Navigation System", "Sunroof"],
+    "description": "This is a description for Car Model 2."
+  },
+  {
+    "id": 3,
+    "name": "Car Model 3",
+    "price": 28000,
+    "url": "https://cdn.pixabay.com/photo/2016/12/03/18/57/car-1880381_1280.jpg",
+    "seats": 5,
+    "miles": 20000,
+    "features": ["Backup Camera", "Cruise Control", "Heated Seats"],
+    "description": "This is a description for Car Model 3."
+  },
+  {
+    "id": 4,
+    "name": "Car Model 4",
+    "price": 32000,
+    "url": "https://cdn.pixabay.com/photo/2016/05/06/16/32/car-1376190_1280.jpg",
+    "seats": 7,
+    "miles": 18000,
+    "features": ["Panoramic Roof", "Blind Spot Monitoring", "Keyless Entry"],
+    "description": "This is a description for Car Model 4."
+  }
+]
